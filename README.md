@@ -63,6 +63,12 @@ Sistema web para gerenciamento e visualização de dados espaciais no setor agr�
 
 ---
 
+## 🐍 Atividade em Snake
+
+![Snake animation](https://github.com/allineramos/allineramos/blob/output/dist/github-contribution-grid-snake.svg)
+
+---
+
 ## 🏆 Conquistas
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=allineramos&theme=onestar&no-frame=true&row=1&column=6)
