@@ -6,7 +6,6 @@
 💡 Apaixonada por tecnologia, desenvolvimento e aprendizado contínuo  
 🧠 Explorando Frontend, Backend e Ciência de Dados  
 🚀 Em busca de desafios que me façam crescer como dev e como pessoa  
-📚 Sempre aprendendo e compartilhando conhecimento com a comunidade
 
 ---
 
